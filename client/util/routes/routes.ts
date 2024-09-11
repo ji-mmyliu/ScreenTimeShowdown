@@ -1,4 +1,4 @@
-let BASEURL = "https://api.screentimeshowdown.tech";
+let BASEURL = "https://api.showdown.jimmyliu.dev";
 let Routes = {
     BASEURL: BASEURL,
     AUTH: {
